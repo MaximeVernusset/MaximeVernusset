@@ -37,3 +37,7 @@ rm -rf prod # mais avec élégance
 <!-- ![github contribution grid snake animation](https://raw.githubusercontent.com/MaximeVernusset/MaximeVernusset/output/github-contribution-grid-snake-dark.svg) -->
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=MaximeVernusset.MaximeVernusset)
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/MaximeVernusset/MaximeVernusset/refs/heads/main/badge.png" width="100%">
+</div>
