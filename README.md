@@ -12,6 +12,8 @@ Monitore Prometheus, mais pas mes propres erreurs.
 
 Terraformeur d'enfers.
 
+Scrum monster à mes heures perdues.
+
 ```shell
 rm -rf prod # mais avec élégance
 ```
