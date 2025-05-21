@@ -12,6 +12,8 @@ Monitore Prometheus, mais pas mes propres erreurs.
 
 Terraformeur d'enfers.
 
+Dompteur d'IA récalcitrantes.
+
 Scrum monster à mes heures perdues.
 
 ```shell
