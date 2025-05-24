@@ -20,7 +20,36 @@ Scrum monster à mes heures perdues.
 rm -rf prod # mais avec élégance
 ```
 
+Réponses préférées :
+
+- [Non](https://naas.isalman.dev/no)
+- RTFM
+
 ## Compétences
+
+<p>
+  <picture>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="42" height="42" />
+  </picture>
+  <picture>
+    <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="42" height="42" />
+  </picture>
+  <picture>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" />
+  </picture>
+  <picture>
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="javascript" width="42" height="42" />
+  </picture>
+  <picture>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="javascript" width="42" height="42" />
+  </picture>
+  <picture>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="javascript" width="42" height="42" />
+  </picture>
+  <picture>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="javascript" width="42" height="42" />
+  </picture>
+</p>
 
 | Domaine | Niveau | Notes |
 |---------|--------|-------|
@@ -34,14 +63,23 @@ rm -rf prod # mais avec élégance
 ## Contributions
 
 <picture>
+  <img alt="Visitors" src="https://visitor-badge.laobi.icu/badge?page_id=MaximeVernusset.MaximeVernusset" />
+</picture>
+<br/>
+<picture>
+  <img alt="Badge Seigneur Fullstuck Devoups" src="https://raw.githubusercontent.com/MaximeVernusset/MaximeVernusset/refs/heads/main/badge.png" width="15%" />
+</picture>
+<br/>
+<picture>
+  <img alt="Trophies" src="https://github-profile-trophy.vercel.app/?username=MaximeVernusset&theme=matrix&rank=-C,-B&no-bg=false&no-frame=true" />
+</picture>
+<br/>
+<picture>
+  <img alt="Streaks stats" src="https://github-readme-streak-stats.herokuapp.com/?user=MaximeVernusset&" />
+</picture>
+<br/>
+<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MaximeVernusset/MaximeVernusset/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MaximeVernusset/MaximeVernusset/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/MaximeVernusset/MaximeVernusset/output/github-contribution-grid-snake.svg">
+  <img alt="Github contribution grid snake animation" src="https://raw.githubusercontent.com/MaximeVernusset/MaximeVernusset/output/github-contribution-grid-snake.svg">
 </picture>
-<!-- ![github contribution grid snake animation](https://raw.githubusercontent.com/MaximeVernusset/MaximeVernusset/output/github-contribution-grid-snake-dark.svg) -->
-
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=MaximeVernusset.MaximeVernusset)
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/MaximeVernusset/MaximeVernusset/refs/heads/main/badge.png" width="100%">
-</div>
