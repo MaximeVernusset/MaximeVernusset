@@ -70,7 +70,7 @@ Réponses préférées :
 ## Contributions
 
 <picture>
-<source srcset="https://visitor-badge.laobi.icu/badge?page_id=MaximeVernusset.MaximeVernusset">
+  <source srcset="https://visitor-badge.laobi.icu/badge?page_id=MaximeVernusset.MaximeVernusset">
   <img alt="Visitors" src="https://visitor-badge.laobi.icu/badge?page_id=MaximeVernusset.MaximeVernusset" />
 </picture>
 <br/>
@@ -80,7 +80,7 @@ Réponses préférées :
 </picture>
 <br/>
 <picture>
-    <source srcset="https://github-profile-trophy.vercel.app/?username=MaximeVernusset&theme=matrix&rank=-C,-B&no-bg=false&no-frame=true">
+  <source srcset="https://github-profile-trophy.vercel.app/?username=MaximeVernusset&theme=matrix&rank=-C,-B&no-bg=false&no-frame=true">
   <img alt="Trophies" src="https://github-profile-trophy.vercel.app/?username=MaximeVernusset&theme=matrix&rank=-C,-B&no-bg=false&no-frame=true" />
 </picture>
 <br/>
