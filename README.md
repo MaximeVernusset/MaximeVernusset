@@ -29,25 +29,32 @@ Réponses préférées :
 
 <p>
   <picture>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="42" height="42" />
+    <source srcset="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+    <img alt="Java" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="42" height="42" />
   </picture>
   <picture>
-    <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="42" height="42" />
+    <source srcset="https://www.vectorlogo.zone/logos/springio/springio-icon.svg">
+    <img alt="spring" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="42" height="42" />
   </picture>
   <picture>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" />
+    <source srcset="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+    <img alt="Javascript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="42" height="42" />
   </picture>
   <picture>
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="javascript" width="42" height="42" />
+    <source srcset="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg">
+    <img alt="Git" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="42" height="42" />
   </picture>
   <picture>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="javascript" width="42" height="42" />
+    <source srcset="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg">
+    <img alt="Postgresql" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="42" height="42" />
   </picture>
   <picture>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="javascript" width="42" height="42" />
+    <source srcset="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
+    <img alt="Linux" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="42" height="42" />
   </picture>
   <picture>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="javascript" width="42" height="42" />
+    <source srcset="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
+    <img alt="AWS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="42" height="42" />
   </picture>
 </p>
 
@@ -63,18 +70,22 @@ Réponses préférées :
 ## Contributions
 
 <picture>
+<source srcset="https://visitor-badge.laobi.icu/badge?page_id=MaximeVernusset.MaximeVernusset">
   <img alt="Visitors" src="https://visitor-badge.laobi.icu/badge?page_id=MaximeVernusset.MaximeVernusset" />
 </picture>
 <br/>
 <picture>
+  <source srcset="https://raw.githubusercontent.com/MaximeVernusset/MaximeVernusset/refs/heads/main/badge.png">
   <img alt="Badge Seigneur Fullstuck Devoups" src="https://raw.githubusercontent.com/MaximeVernusset/MaximeVernusset/refs/heads/main/badge.png" width="15%" />
 </picture>
 <br/>
 <picture>
+    <source srcset="https://github-profile-trophy.vercel.app/?username=MaximeVernusset&theme=matrix&rank=-C,-B&no-bg=false&no-frame=true">
   <img alt="Trophies" src="https://github-profile-trophy.vercel.app/?username=MaximeVernusset&theme=matrix&rank=-C,-B&no-bg=false&no-frame=true" />
 </picture>
 <br/>
 <picture>
+  <source srcset="https://github-readme-streak-stats.herokuapp.com/?user=MaximeVernusset&">
   <img alt="Streaks stats" src="https://github-readme-streak-stats.herokuapp.com/?user=MaximeVernusset&" />
 </picture>
 <br/>
