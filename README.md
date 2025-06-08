@@ -14,7 +14,7 @@ Terraformeur d'enfers.
 
 Dompteur d'IA récalcitrantes.
 
-Scrum monster à mes heures perdues.
+Scrum monster à mes heures perdues (fondateur du [Manifeste Burne Down™](https://maximevernusset.github.io/Burne-Down/manifesto/)).
 
 ```shell
 rm -rf prod # mais avec élégance
