@@ -94,3 +94,5 @@ Réponses préférées :
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MaximeVernusset/MaximeVernusset/output/github-contribution-grid-snake.svg">
   <img alt="Github contribution grid snake animation" src="https://raw.githubusercontent.com/MaximeVernusset/MaximeVernusset/output/github-contribution-grid-snake.svg">
 </picture>
+<br/>
+<a href="https://app.daily.dev/maximevernusset"><img src="https://api.daily.dev/devcards/v2/n553ls1JCg.png?type=default&r=h5m" width="275" alt="Maxime Vernusset's Dev Card"/></a>
