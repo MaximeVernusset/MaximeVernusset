@@ -3,13 +3,15 @@
 
 <br>
 
-<img alt="Java" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="42" height="42" />
-<img alt="spring" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="42" height="42" />
-<img alt="Javascript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="42" height="42" />
-<img alt="Git" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="42" height="42" />
-<img alt="Postgresql" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="42" height="42" />
-<img alt="Linux" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="42" height="42" />
-<img alt="AWS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="42" height="42" />
+<p>
+  <img alt="Java" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="42" height="42" />
+  <img alt="spring" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="42" height="42" />
+  <img alt="Javascript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="42" height="42" />
+  <img alt="Git" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="42" height="42" />
+  <img alt="Postgresql" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="42" height="42" />
+  <img alt="Linux" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="42" height="42" />
+  <img alt="AWS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="42" height="42" />
+</p>
 
 <br>
 
