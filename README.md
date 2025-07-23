@@ -33,6 +33,9 @@
 Chevalier vénérable des infrastructures invisibles.  
 Maître de la forge logicielle et de l'art secret de l'automatisation.
 
+Il n'est pas né, il s'est compilé.
+Il est le commit initial, et le revert final.
+
 Il entend le murmure des serveurs dans le silence des datacenters.  
 Et d'un simple geste orchestre le ballet des microservices.
 
